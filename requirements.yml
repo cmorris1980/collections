@@ -1,4 +1,5 @@
 ---
 collections:
   - name: chocolatey.chocolatey
+  - name: ansible.windows
   - name: qsypoq.vmware_desktop

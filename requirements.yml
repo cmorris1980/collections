@@ -3,3 +3,5 @@ collections:
   - name: chocolatey.chocolatey
   - name: ansible.windows
   - name: qsypoq.vmware_desktop
+  - name: redhat_cop.tower_configuration
+  - name: community.general
